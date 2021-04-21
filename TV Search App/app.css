@@ -1,0 +1,10 @@
+html{
+    background-color:rgb(234, 221, 202);
+}
+body{
+    text-align:center;
+}
+img{
+    display: inline-block;
+    margin: 0 auto;
+}
